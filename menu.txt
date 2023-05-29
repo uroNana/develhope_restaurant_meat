@@ -1,0 +1,13 @@
+DEVELHOPE RESTAURANT
+
+TYPE OF MENU -MEAT
+
+Drinks:
+
+Still water       1 l                  2,00 $
+Sparkling water   1 l                  2,00 $
+Red wine          1 l                 10,00 $
+White wine        1 l                 10,00 $
+Beer             33 cl                 5,00 $
+Cocacola         33 cl                 3,00 $
+Fanta            33 cl                 3,00 $
